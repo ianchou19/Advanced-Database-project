@@ -1,10 +1,6 @@
 # RepCRec - Advanced Database Systems Project
 Replicated Concurrency Control and Recovery (RepCRec)
 
-### Team members:
-- Zheng Jiang, Net ID: zj688
-- Shih-Yao Chou, Net ID: syc574
-
 ## How to run
 Please make sure you have Python 3.6+ installed.
 To run the code directly, use the following command:

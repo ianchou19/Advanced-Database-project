@@ -1,4 +1,4 @@
-# RepCRec - Advanced Database Systems
+# RepCRec - Advanced Database Systems project
 Replicated Concurrency Control and Recovery (RepCRec)
 
 ## How to run
